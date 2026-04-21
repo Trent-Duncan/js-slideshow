@@ -1,0 +1,25 @@
+/* Your first and last name */
+/* Current date */
+/* Project name */
+
+
+/* CSS reset rule */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Define CSS variables */
+:root {
+  --font-size: 16px;
+  --aquamarine: rgb(127, 255, 212);
+  --white: #fff;
+
+}
+
+
+
+
+
